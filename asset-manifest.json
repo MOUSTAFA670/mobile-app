@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mobile-app/static/css/main.3c2021d4.css",
+    "main.js": "/mobile-app/static/js/main.cc4657a8.js",
+    "static/media/Screen Shot 2021-11-21 at 10.07.49 PM@2x.png": "/mobile-app/static/media/Screen Shot 2021-11-21 at 10.07.49 PM@2x.a5686a6ca441564f155b.png",
+    "static/media/11.jpg": "/mobile-app/static/media/11.80f77d193dbd1cc8b84f.jpg",
+    "static/media/Screen Shot 2021-11-21 at 10.08.07 PM.png": "/mobile-app/static/media/Screen Shot 2021-11-21 at 10.08.07 PM.5469c2c6dd90a3e13e60.png",
+    "static/media/Group 729.svg": "/mobile-app/static/media/Group 729.ff2209dad86149a1ed5f976ed00a2473.svg",
+    "static/media/Group.svg": "/mobile-app/static/media/Group.06f8945f778c77921ce3ec80fa5629b4.svg",
+    "static/media/emphty.svg": "/mobile-app/static/media/emphty.050ece5baee2bf06a25c5d325f7fe184.svg",
+    "static/media/vuesax-linear-convert-3d-cube.svg": "/mobile-app/static/media/vuesax-linear-convert-3d-cube.82adb47d9747f6a41dd691c4e956f467.svg",
+    "static/media/vuesax-linear-group.svg": "/mobile-app/static/media/vuesax-linear-group.ca53b3d5d427107e676b2ad9c4dc37a9.svg",
+    "static/media/vuesax-linear-bag-2.svg": "/mobile-app/static/media/vuesax-linear-bag-2.750ba35ced132d77f2d7a01b204824ea.svg",
+    "static/media/vuesax-linear-profile.svg": "/mobile-app/static/media/vuesax-linear-profile.e2c7dfb306f5b76324d24cd9ead1e902.svg",
+    "index.html": "/mobile-app/index.html",
+    "static/media/search-normal.svg": "/mobile-app/static/media/search-normal.afc55dcf3dcc17017d0c979239b9fc59.svg",
+    "static/media/star.svg": "/mobile-app/static/media/star.9d9d03d7e163e1fcabf858fd24bbcb22.svg",
+    "main.3c2021d4.css.map": "/mobile-app/static/css/main.3c2021d4.css.map",
+    "main.cc4657a8.js.map": "/mobile-app/static/js/main.cc4657a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c2021d4.css",
+    "static/js/main.cc4657a8.js"
+  ]
+}

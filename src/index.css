@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Poppins:wght@600&family=Qwitcher+Grypen:wght@700&family=Roboto:ital,wght@1,500&family=Source+Serif+Pro&display=swap');
+
+
+body {
+  margin: 0;
+  font-family: 'Source Serif Pro', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.nav-border{
+  border-left: 1px solid rgba(255, 255, 255, 0.747);
+}
+
+
+.logo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+ 
+}
+.logo img{
+  width: 50%;
+}
+
+
+ul img{ 
+  width: 45%;
+}
+
+.product{
+margin-top: 20px;
+}
+
+.center {
+  text-align: center;
+  color: black;
+}
+
+.pre{
+
+  background-color: rgba(172, 171, 171, 0.911);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+
+}
+
+.buttons{
+ 
+  position: relative;
+ top: 200px;
+}
+
+.black{
+ color: black;
+}
+/* .contennt{
+  width: 300px;
+  border: 1px solid  rgba(218, 218, 218, 0.795);
+} */
+
+
+.box{
+
+  display: flex;
+ 
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.info{
+  text-align: center;
+}
+
+.price{
+  justify-content: space-between;
+}
+
+.subscribe{
+  background-color: #F0F0F0;
+}
+
+
+input{
+  background-color: #F0F0F0;
+  border-radius: 5px;
+  border: 1px solid #a8a7a7cb ;
+}
+button{
+  border-radius: 5px;
+  background-color: #000000;
+  color: white;
+}
+
+
+.footer{
+
+  display: flex;
+flex-direction: row;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  flex-direction: column;
+  color: white;
+
+}
+
+
+.bt{
+  background-color: white;
+  border-radius: 50%;
+  border: 1px solid black;
+  color: black;
+  width:20px;
+  height: 20px;
+}
+
+
+.rect{
+  width: 114px;
+  height: 82px;
+  border: 1px solid rgba(155, 155, 155, 0.747);
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.circle{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #EDEDED;
+}
+.circlee{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #90BAD1;
+}
+
+
+.add{
+  border-radius: 10px;
+  background-color: black;
+}
+
+
+.ship{
+
+ border-top: 1px solid #EDEDED;
+ margin-top: 20px;
+}
+
+
+.change{
+  color: blue;
+}
+
+.add-blue{
+  background-color: blue;
+  border: blue;
+  border-radius: 10px;
+}
+
+
+
+@media screen and (max-width:1000px){
+
+
+  .media{
+    width:20px;
+  }
+
+  .nav-border{
+
+border: none;
+  }
+}
